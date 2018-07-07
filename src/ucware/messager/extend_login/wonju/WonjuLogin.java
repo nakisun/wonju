@@ -205,5 +205,3 @@ public class WonjuLogin extends ExtendCertify {
 		}
 	}
 }
-
-//end123
